@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Stormify](https://github.com/praiseprince/Stormify)
 
-- 👨‍💻 All of my projects are available [Here]()
+- 👨‍💻 All of my projects are available [Here](https://github.com/praiseprince)
 
 - 📫 How to reach me **praiseprince35@gmail.com**
 
