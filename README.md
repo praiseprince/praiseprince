@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Stormify](https://github.com/praiseprince/Stormify)
 
-- 👨‍💻 All of my projects are available [Here](https://github.com/praiseprince)
+- 👨‍💻 All of my projects are available [Here](https://praiseprince.me/#portfolio)
 
 - 📫 How to reach me **praiseprince35@gmail.com**
 
-- 📄 Know about my experiences [https://praiseprince.me/images/resume.pdf](https://praiseprince.me/images/resume.pdf)
+- 📄 Know about my experiences [Resume](https://praiseprince.me/images/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
