@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praiseprince" alt="praiseprince" /></a> </p>
 
-- 🔭 I’m currently working on [Stormify](https://github.com/praiseprince/Stormify)
+- 🔭 I’m currently working on [SpotiFetch](https://github.com/praiseprince/SpotiFetch)
 
 - 👨‍💻 All of my projects are available [Here](https://praiseprince.me/#portfolio)
 
-- 📫 How to reach me **praiseprince35@gmail.com**
+- 📫 How to reach me: **praiseprince35@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://praiseprince.me/images/resume.pdf)
 
