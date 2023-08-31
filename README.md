@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praise</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praiseprince&label=Profile%20views&color=0e75b6&style=flat" alt="praiseprince" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praiseprince" alt="praiseprince" /></a> </p>
-
 - 🔭 I’m currently working on [SpotiFetch](https://github.com/praiseprince/SpotiFetch)
 
 - 👨‍💻 All of my projects are available [Here](https://praiseprince.me/#portfolio)
