@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praise</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praiseprince&label=Profile%20views&color=0e75b6&style=flat" alt="praiseprince" /> </p>
 
-- 🔭 I’m currently working on [SpotiFetch](https://github.com/praiseprince/SpotiFetch)
+- 🔭 I’m currently working on [LectureWave](https://github.com/praiseprince/LectureWave)
 
 - 👨‍💻 All of my projects are available [Here](https://praiseprince.me/#portfolio)
 
