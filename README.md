@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **praiseprince35@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://praiseprince.me/assets/resume.pdf)
+- 📄 Know about my experiences [Resume](https://praiseprince.com/assets/Praise-Princr-Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
